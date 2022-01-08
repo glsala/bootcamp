@@ -1,4 +1,4 @@
-const Queue = require('./queue');
+const Queue = require('./13_queue');
 
 function weave(sourceOne, sourceTwo) {
   const q = new Queue();
